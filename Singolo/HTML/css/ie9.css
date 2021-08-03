@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'fontello';
+	src: url('fonts/fontello/fontello.eot?11696308');
+#about ul li span {
+	line-height: 35px;
+}
+
+#footer ul li span {
+	line-height: 33px;
+}
